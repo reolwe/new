@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.2-0ubuntu1~20.04.3 on Mon, 25 Jul 2022 16:57:38 +0000
+
+# User rules for mikhail
+mikhail ALL=(ALL) NOPASSWD:ALL
